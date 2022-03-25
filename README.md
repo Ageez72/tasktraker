@@ -4,12 +4,12 @@ It's a Tasks tracker react app
 
 You can Add your tasks and back to them later then delete the task you made it
 
-<div align="center">
-  <img style="height:400px" src ="./app1.png" />
-  <img style="height:400px" src ="./app2.png" />
-</div>
+<p align="center">
+  <img style="width: 50%;" src ="./app1.png" />
+  <img style="width: 50%;" src ="./app2.png" />
+</p>
 
-Live: https://ag-tasktracker.netlify.app/
+<p><b>Live:</b> https://ag-tasktracker.netlify.app/</p>
 
 If you're a developer you can download the code 
 
